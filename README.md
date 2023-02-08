@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-My Name is Keila Lopez. I am a Fullstack Software Engineer. After 5 years in the Construction Management industry, I left the jobsite to join Flatiron's Software Engineering Online program. I seek to apply my knack for problem solving and user intuition to the construction tech industry. 
+My Name is Keila Lopez. I am a Fullstack Software Engineer. After 5 years in the Construction Management industry, I left the jobsites and join Flatiron's Software Engineering Online program. I seek to apply my knack for problem solving and user intuition to the construction tech industry. 
 
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning Redux, DSA, Typescript
